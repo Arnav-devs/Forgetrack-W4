@@ -184,13 +184,9 @@ Output file     : internship_results.csv
 
 # Screenshot
 
-## Replace with Screenshot of Program Execution
-
 <img width="402" height="272" alt="image" src="https://github.com/user-attachments/assets/b437844c-ead0-4dfe-ae19-4cbdcacd58c6" />
 
 ---
-
-## Replace with Screenshot of Generated CSV File
 
 <img width="1258" height="657" alt="image" src="https://github.com/user-attachments/assets/c9a608ff-073c-40fe-a49b-5ecd0d738787" />
 
